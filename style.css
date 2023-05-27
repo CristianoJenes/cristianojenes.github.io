@@ -6,19 +6,19 @@ body { background-color: #353433ff;
          top: 5px;
          left: 10px;
          text-decoration: none;
-         color: white;}
+         border: 2px solid green;}
 
 #myskills { position: absolute;
             top: 5px;
             left: 100px;
             text-decoration: none;
-            color: white;}
+            border: 2px solid green;}
 
 #myfavoritepage { position: absolute;
                   top: 5px;
                   left: 250px;
                   text-decoration: none;
-                  color: white;}
+                  border: 2px solid green;}
 
 h1 {font-family: 'Montserrat', sans-serif;
     font-style: italic;
@@ -28,7 +28,8 @@ h1 {font-family: 'Montserrat', sans-serif;
     font-size: 40px;
     background-color: black;
     padding: 15px 10px 15px 20px;
-    text-align: center;}
+    text-align: center;
+    border: 2px solid purple;}
 
 .foto { margin: 0%;
         position: absolute;
@@ -42,34 +43,40 @@ h2 {font-family: 'Montserrat', sans-serif;
     font-weight: 100;
     color: black;
     font-size: 25px;
-    margin: 1%;}
+    margin: 1%;
+    border: 2px solid orange;}
 
 .descricao {font-family: 'Montserrat', sans-serif;
             font-style: normal;
             line-height: 1.5;
             font-weight: 100;
             color: black;
-            margin: 1%;}
+            margin: 1%;
+            border: 2px solid black;}
 
 #descricao { padding-left: 340px;
              padding-right: 80px;
              text-align:justify;
              position: absolute;
-             top: 220px;}
+             top: 220px;
+             border: 2px solid blue;}
 
 .habilidades {font-family: 'Montserrat', sans-serif;
            font-style: normal;
            line-height: 1.5;
            font-weight: 100;
            color: aliceblue;
-           font-size: 18px;}
+           font-size: 18px;
+           border: 2px solid red;}
 
 #habilidades { position: absolute;
-               top: 550px; }
+               top: 550px;
+               border: 2px solid yellow;}
 
 #hard-skills { position: absolute;
                   top: 550px;
-                  left: 350px;}
+                  left: 350px;
+                  border: 2px solid pink;}
 
 .adaptabilidade {font-size: 16px;}
 .aprender {font-size: 16px;}
@@ -90,7 +97,8 @@ h2 {font-family: 'Montserrat', sans-serif;
           top: 830px;
           font-family: 'Montserrat', sans-serif;
           font-style: normal;
-          color: rgb(117, 117, 117);}
+          color: rgb(117, 117, 117);
+          border: 2px solid skyblue;}
 
 #page { padding-left: 25px;
         padding-bottom: 10px;
@@ -99,11 +107,13 @@ h2 {font-family: 'Montserrat', sans-serif;
         top: 2000px;
         z-index: 1;
         text-decoration: none;
-        color:  white;}
+        color:  white;
+        border: 2px solid burlywood;}
 
 #photo { padding-left: 220px;
          text-align: left;
          position: absolute;
          top: 2000px;
          text-decoration: none;
-         color: white;}
+         color: white;
+         border: 2px solid grey;}
