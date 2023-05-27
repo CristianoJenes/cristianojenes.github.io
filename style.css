@@ -2,6 +2,22 @@
 body { background-color: #353433ff;
        margin: 0%;}
 
+#linkabout { position: absolute;
+             top: 5px;
+             left: 10px;
+             text-decoration: none;
+             background-color: white;}
+
+#linkskills { position: absolute;
+              top: 5px;
+              left: 120px;
+              text-decoration: none;}
+
+#linkpage { position: absolute;
+            top: 5px;
+            left: 290px;
+            text-decoration: none;}
+
 h1 {font-family: 'Montserrat', sans-serif;
     font-style: italic;
     line-height: 1.2;
@@ -9,13 +25,13 @@ h1 {font-family: 'Montserrat', sans-serif;
     color: aliceblue;
     font-size: 40px;
     background-color: black;
-    padding: 30px 10px 30px 20px;
+    padding: 15px 10px 15px 20px;
     text-align: center;}
 
-.foto { margin: 1%;
+.foto { margin: 0%;
         position: absolute;
-        top: 160px;
-        padding: 15px 945px 15px 10px;
+        top: 150px;
+        padding: 15px 950px 15px 15px;
         background-color: white;}
 
 h2 {font-family: 'Montserrat', sans-serif;
@@ -49,7 +65,7 @@ h2 {font-family: 'Montserrat', sans-serif;
 #habilidades { position: absolute;
                top: 600px; }
 
-#habilidades-hs { position: absolute;
+#hard-skills { position: absolute;
                   top: 600px;
                   left: 350px;}
 
@@ -64,3 +80,12 @@ h2 {font-family: 'Montserrat', sans-serif;
 .html {font-size: 16px;}
 .css {font-size: 16px;}
 .javascript {font-size: 16px;}
+
+
+#legend { padding-left: 25px;
+          text-align: left;
+          position: absolute;
+          top: 880px;
+          font-family: 'Montserrat', sans-serif;
+          font-style: normal;
+          color: rgb(117, 117, 117);}
