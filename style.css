@@ -3,25 +3,22 @@ body { background-color: #353433ff;
        margin: 0%;}
 
 #about { position: absolute;
-             top: 5px;
-             left: 10px;
-             text-decoration: none;
-             color: white;
-             font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;}
+         top: 5px;
+         left: 10px;
+         text-decoration: none;
+         color: white;}
 
 #myskills { position: absolute;
             top: 5px;
             left: 100px;
             text-decoration: none;
-            color: white;
-            font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;}
+            color: white;}
 
 #myfavoritepage { position: absolute;
-            top: 5px;
-            left: 250px;
-            text-decoration: none;
-            color: white;
-            font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;}
+                  top: 5px;
+                  left: 250px;
+                  text-decoration: none;
+                  color: white;}
 
 h1 {font-family: 'Montserrat', sans-serif;
     font-style: italic;
@@ -96,18 +93,17 @@ h2 {font-family: 'Montserrat', sans-serif;
           color: rgb(117, 117, 117);}
 
 #page { padding-left: 25px;
+        padding-bottom: 10px;
         text-align: left;
         position: absolute;
         top: 2000px;
-        font-family: 'Montserrat', sans-serif;
+        z-index: 1;
         text-decoration: none;
-        color: white;
-        z-index: 1;}
+        color:  white;}
 
 #photo { padding-left: 220px;
          text-align: left;
          position: absolute;
          top: 2000px;
-         font-family: 'Montserrat', sans-serif;
          text-decoration: none;
-         color: white; }
+         color: white;}
