@@ -2,22 +2,26 @@
 body { background-color: #353433ff;
        margin: 0%;}
 
-#linkabout { position: absolute;
+#about { position: absolute;
              top: 5px;
              left: 10px;
-             text-decoration: none;}
+             text-decoration: none;
+             color: white;
+             font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;}
 
-#linkskills { position: absolute;
-              top: 5px;
-              left: 120px;
-              text-decoration: none;}
-
-#linkpage { position: absolute;
+#myskills { position: absolute;
             top: 5px;
-            left: 290px;
-            text-decoration: none;}
+            left: 100px;
+            text-decoration: none;
+            color: white;
+            font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;}
 
-
+#myfavoritepage { position: absolute;
+            top: 5px;
+            left: 250px;
+            text-decoration: none;
+            color: white;
+            font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;}
 
 h1 {font-family: 'Montserrat', sans-serif;
     font-style: italic;
