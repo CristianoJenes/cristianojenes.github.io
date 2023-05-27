@@ -94,7 +94,11 @@ h2 {font-family: 'Montserrat', sans-serif;
 #page { padding-left: 25px;
         text-align: left;
         position: absolute;
-        top: 2000px; }
+        top: 2000px;
+        font-family: 'Montserrat', sans-serif;
+        text-decoration: none;
+        color: white;
+        z-index: 1;}
 
 #photo { padding-left: 220px;
          text-align: left;
